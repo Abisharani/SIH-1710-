@@ -37,8 +37,7 @@ The solution consists of the following major features:
 9. 3D navigation: Offer an optional three-dimensional station view for easier understanding of complex station layouts.
 For the initial prototype, navigation can work with a sample station map and simulated facility updates. Continuous indoor positioning, verified live status, and official railway integration require additional infrastructure and authorized data.
 
-<img width="1012" height="567" alt="image" src="https://github.com/user-attachments/assets/f62f9dd0-aadb-490b-8462-550395ad9997" />
-
+![alt text](<Screenshot 2026-10-26 101553.png>)
 
 ## Use Cases
 
